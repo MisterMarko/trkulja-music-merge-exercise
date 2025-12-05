@@ -7,3 +7,4 @@ After repeating the process (adding mroe lines to onMain.md,multiple times), the
 In contrast, a -feature branch still has only a few commits and the content there is only onBranch.md. They are still separate branches. 
 
 We merge a-feature branch into main branch. After merging, main branch now has all the commits from both branches and the content consists of readme.md, onMain.md and onBranch.md.
+We made rebase of a-feature branch onto main branch. After rebasing, a-feature branch now has all the commits from both branches and the content consists of readme.md, onMain.md and onBranch.md.
